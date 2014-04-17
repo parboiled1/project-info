@@ -23,7 +23,9 @@ has been achieved so far:
 * split of the [core package](https://github.com/parboiled1/parboiled-core), the [Java
   package](https://github.com/parboiled1/parboiled-java) and the [Java examples
   package](https://github.com/parboiled1/parboiled-examples);
-* switch of the build system from sbt to [Gradle](http://gradle.org).
+* switch of the build system from sbt to [Gradle](http://gradle.org);
+* no more Scala support (you want to use
+  [parboiled2](https://github.com/sirthias/parboiled2) instead).
 
 No artifacts have been published as of yet. **Note that you MUST use either a JDK 6 or 7, JDK 8 will
 not work at this moment.**
