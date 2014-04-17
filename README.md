@@ -7,12 +7,11 @@ needed, unlike with, for instance, JavaCC or Antlr.
 [Parboiled2](https://github.com/sirthias/parboiled2) is its successor. Unfortunately for Java people
 who don't do Scala, Parboiled2 will be Scala only.
 
-This GitHub organization is therefore dedicated to continue the development of what is called here
-parboiled1. A prior discussion on the [parboiled users
-group](http://users.parboiled.org/Parboiled-quot-1-quot-status-as-of-today-Possibility-of-a-fork-td4024289.html)
-has occurred prior to the creation of this organization. Credits, of course, to [sirthias (on
-GitHub)](https://github.com/sirthias) for creating such an awesome piece of software in the first
-place.
+This GitHub organization is therefore dedicated to continue the development of
+what is called here parboiled1. A discussion as to the relevance of such an
+organization has occurred on the [parboiled users
+group](http://users.parboiled.org/Parboiled-quot-1-quot-status-as-of-today-Possibility-of-a-fork-td4024289.html),
+and here we are.
 
 The license is unchanged: Apache Software License, version 2.
 
