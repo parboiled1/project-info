@@ -9,7 +9,9 @@ Some good editors and resources can be found here, and may be updated as necessa
 
 To obtain the bytecode for a particular java file, do the following:
 
+```
 getResourceAsStream("/path/to/$$parboiled.RSS.class");
+```
 
 Save it out to file, and then open it.
 
