@@ -15,6 +15,17 @@ and here we are.
 
 The license is unchanged: Apache Software License, version 2.
 
+## Version
+
+The current version is **1.1.17-beta.1**. See
+[here](https://github.com/parboiled1/project-info/wiki/ChangeLog) for the changelog. Parboiled
+requires Java 6 to run, but see below.
+
+Note that these jars are not available on Maven Central at the moment; however, they are available
+for download on [Bintray](https://bintray.com) (links:
+[parboiled-core](https://bintray.com/fge/maven/parboiled-core/view),
+[parboiled-java](https://bintray.com/fge/maven/parboiled-java/view)).
+
 ## Current status
 
 Based on a [fork of the original repository](https://github.com/parboiled1/parboiled), the following
@@ -27,8 +38,7 @@ has been achieved so far:
 * no more Scala support (you want to use
   [parboiled2](https://github.com/sirthias/parboiled2) instead).
 
-No artifacts have been published as of yet. **Note that you MUST use either a JDK 6 or 7, JDK 8 will
-not work at this moment.**
+**Note that you MUST use either a JDK 6 or 7, JDK 8 will not work at this moment.**
 
 ## Contributing
 
@@ -41,14 +51,5 @@ If you are interested, you can also ask to [join this organization](https://gith
 
 ## Plans
 
-Good question...
+See [here](https://github.com/parboiled1/project-info/wiki/Future-plans).
 
-First of all, probably publish the javadoc on Github (using the dedicated `gh-pages` branch). Then,
-in no particular order:
-
-* drop Java 6 support; take advantage of Java 7's [invokedynamic (aka
-  "indy")](http://blog.headius.com/2008/09/first-taste-of-invokedynamic.html);
-* write more examples;
-* document the inner workings.
-
-And so on. Do not hesitate to make suggestions, of course.
