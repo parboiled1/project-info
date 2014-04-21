@@ -63,6 +63,9 @@ In any way you can:
 
 If you are interested, you can also ask to [join this organization](https://github.com/parboiled1).
 
+If you use IRC, you can also join channel `#parboiled1` on [FreeNode](http://freenode.net) (server:
+`irc.freenode.net`).
+
 ## Plans
 
 See [here](https://github.com/parboiled1/project-info/wiki/Future-plans).
