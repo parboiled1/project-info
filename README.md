@@ -21,13 +21,15 @@ The current version is **1.1.17-beta.2**. See
 [here](https://github.com/parboiled1/project-info/wiki/ChangeLog) for the changelog. Parboiled
 requires Java 6 to run, but see below.
 
-These artifacts are available on Maven. Substitude `xxx` and `myVersion` below with the package and
+These artifacts are available on Maven. Substitute `xxx` and `myVersion` below with the package and
 version you need (you probably want `java` for `xxx`; it will pull `-core` automatically):
 
 ```
 // Using gradle...
 
-compile(group: "com.github.parboiled1", name: "parboiled-xxx", version: "myVersion");
+dependencies {
+    compile(group: "com.github.parboiled1", name: "parboiled-xxx", version: "myVersion");
+}
 
 // Using maven:
 
