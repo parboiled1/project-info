@@ -17,7 +17,7 @@ The license is unchanged: Apache Software License, version 2.
 
 ## Version
 
-The current version is **1.1.17-beta.1**. See
+The current version is **1.1.17-beta.2**. See
 [here](https://github.com/parboiled1/project-info/wiki/ChangeLog) for the changelog. Parboiled
 requires Java 6 to run, but see below.
 
