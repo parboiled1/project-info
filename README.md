@@ -23,6 +23,7 @@ repositories that are:
 * [parboiled-core](https://github.com/parboiled1/parboiled-core),
 * [parboiled-java](https://github.com/parboiled1/parboiled-java).
 
+Note that unlike parboiled-core and parboiled-java, **grappa works with Java 8**.
 
 ## Contributing
 
