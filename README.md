@@ -17,7 +17,7 @@ The license is unchanged: Apache Software License, version 2.
 
 ## Current status
 
-The main project is [grappa](https://github.com/parboiled1/grappa). It supersedes the two other
+The main project is [grappa](https://github.com/fge/grappa). It supersedes the two other
 repositories that are:
 
 * [parboiled-core](https://github.com/parboiled1/parboiled-core),
