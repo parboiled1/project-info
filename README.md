@@ -17,20 +17,17 @@ The license is unchanged: Apache Software License, version 2.
 
 ## Current status
 
-The main project is [grappa](https://github.com/fge/grappa). It supersedes the two other
-repositories that are:
+The main project is [grappa](https://github.com/fge/grappa). Its current version is
+**1.0.0-beta.2**.
 
-* [parboiled-core](https://github.com/parboiled1/parboiled-core),
-* [parboiled-java](https://github.com/parboiled1/parboiled-java).
-
-Note that unlike parboiled-core and parboiled-java, **grappa works with Java 8**.
+Note that unlike the current version of parboiled-java (1.1.6); **grappa works with Java 8**.
 
 ## Contributing
 
 In any way you can:
 
-* open an [issue](https://github.com/parboiled1/project-info/issues) to request a feature;
-* fork and contribute to the projects above.
+* open an [issue](https://github.com/parboiled1/grappa/issues) to request a feature;
+* fork and contribute!
 
 If you are interested, you can also ask to [join this organization](https://github.com/parboiled1).
 
@@ -39,29 +36,4 @@ If you use IRC, you can also join channel `#parboiled1` on [FreeNode](http://fre
 
 ## Plans
 
-See [here](https://github.com/parboiled1/project-info/wiki/Future-plans).
-
-## Versions of old artifacts
-
-Artifacts of **1.1.17-beta.2** are available on Maven Central. See
-[here](https://github.com/parboiled1/project-info/wiki/ChangeLog) for the
-changelog. Substitute `xxx` and `myVersion` below with the package and version
-you need (you probably want `java` for `xxx`; it will pull `-core`
-automatically):
-
-```
-// Using gradle...
-
-dependencies {
-    compile(group: "com.github.parboiled1", name: "parboiled-xxx", version: "myVersion");
-}
-
-// Using maven:
-
-<dependency>
-    <groupId>com.github.parboiled1</groupId>
-    <artifactId>parboiled-xxx</artifactId>
-    <version>myVersion</version>
-</dependency>
-```
-
+See [here](https://github.com/parboiled1/grappa/wiki).
