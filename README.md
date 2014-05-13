@@ -17,8 +17,9 @@ The license is unchanged: Apache Software License, version 2.
 
 ## Current status
 
-The main project is [grappa](https://github.com/fge/grappa). Its current version is
-**1.0.0-beta.2**.
+The main project is [grappa](https://github.com/parboiled1/grappa). Its current version is
+**1.0.0-beta.5**. A [support package](https://github.com/parboiled1/grappa-support) is being
+written as well.
 
 Note that unlike the current version of parboiled-java (1.1.6); **grappa works with Java 8**.
 
@@ -31,7 +32,7 @@ In any way you can:
 
 If you are interested, you can also ask to [join this organization](https://github.com/parboiled1).
 
-If you use IRC, you can also join channel `#parboiled1` on [FreeNode](http://freenode.net) (server:
+If you use IRC, you can also join channel `#grappa` on [FreeNode](http://freenode.net) (server:
 `irc.freenode.net`).
 
 ## Plans
